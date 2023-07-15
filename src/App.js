@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from 'axios'
 const api = {
-  key:"d5e9a15f6ab6a00ab1eb8e50b6202602",
+  key:"your_api_key",
   base:"http://api.weatherstack.com/"
 }
 
